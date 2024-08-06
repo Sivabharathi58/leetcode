@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sivabharathi58/leetcode/tree/master/0035-search-insert-position) |
 | [1635-number-of-good-pairs](https://github.com/Sivabharathi58/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sivabharathi58/leetcode/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Sivabharathi58/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
