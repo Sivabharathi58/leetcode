@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sivabharathi58/leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Sivabharathi58/leetcode/tree/master/0046-permutations) |
 | [1635-number-of-good-pairs](https://github.com/Sivabharathi58/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sivabharathi58/leetcode/tree/master/0035-search-insert-position) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Sivabharathi58/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
