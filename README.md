@@ -13,6 +13,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sivabharathi58/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Sivabharathi58/leetcode/tree/master/0141-linked-list-cycle) |
+| [0778-reorganize-string](https://github.com/Sivabharathi58/leetcode/tree/master/0778-reorganize-string) |
 | [1635-number-of-good-pairs](https://github.com/Sivabharathi58/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
@@ -24,6 +25,7 @@
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/Sivabharathi58/leetcode/tree/master/0778-reorganize-string) |
 | [1635-number-of-good-pairs](https://github.com/Sivabharathi58/leetcode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -31,6 +33,7 @@
 | [0013-roman-to-integer](https://github.com/Sivabharathi58/leetcode/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/Sivabharathi58/leetcode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Sivabharathi58/leetcode/tree/master/0742-to-lower-case) |
+| [0778-reorganize-string](https://github.com/Sivabharathi58/leetcode/tree/master/0778-reorganize-string) |
 ## Simulation
 |  |
 | ------- |
@@ -72,4 +75,16 @@
 |  |
 | ------- |
 | [1835-decode-xored-permutation](https://github.com/Sivabharathi58/leetcode/tree/master/1835-decode-xored-permutation) |
+## Greedy
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Sivabharathi58/leetcode/tree/master/0778-reorganize-string) |
+## Sorting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Sivabharathi58/leetcode/tree/master/0778-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Sivabharathi58/leetcode/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
