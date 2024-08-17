@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Sivabharathi58/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Sivabharathi58/leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Sivabharathi58/leetcode/tree/master/0046-permutations) |
+| [0179-largest-number](https://github.com/Sivabharathi58/leetcode/tree/master/0179-largest-number) |
 | [1635-number-of-good-pairs](https://github.com/Sivabharathi58/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1835-decode-xored-permutation](https://github.com/Sivabharathi58/leetcode/tree/master/1835-decode-xored-permutation) |
 ## Hash Table
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sivabharathi58/leetcode/tree/master/0013-roman-to-integer) |
+| [0179-largest-number](https://github.com/Sivabharathi58/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Sivabharathi58/leetcode/tree/master/0214-shortest-palindrome) |
 | [0415-add-strings](https://github.com/Sivabharathi58/leetcode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Sivabharathi58/leetcode/tree/master/0742-to-lower-case) |
@@ -83,10 +85,12 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Sivabharathi58/leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Sivabharathi58/leetcode/tree/master/0778-reorganize-string) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Sivabharathi58/leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Sivabharathi58/leetcode/tree/master/0778-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
