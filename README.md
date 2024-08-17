@@ -37,6 +37,7 @@
 | [0415-add-strings](https://github.com/Sivabharathi58/leetcode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Sivabharathi58/leetcode/tree/master/0742-to-lower-case) |
 | [0778-reorganize-string](https://github.com/Sivabharathi58/leetcode/tree/master/0778-reorganize-string) |
+| [0812-rotate-string](https://github.com/Sivabharathi58/leetcode/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/Sivabharathi58/leetcode/tree/master/1205-defanging-an-ip-address) |
 ## Simulation
 |  |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sivabharathi58/leetcode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/Sivabharathi58/leetcode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
